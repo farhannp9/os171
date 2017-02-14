@@ -1,0 +1,5 @@
+#farhan_nurdiatama
+
+This week lab assignment is about the basics of using this terminal
+I learn about how tu pull and push things from repository and moving in and out
+things.
