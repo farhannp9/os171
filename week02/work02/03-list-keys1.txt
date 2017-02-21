@@ -1,0 +1,14 @@
+/home/fasilkom/mahasiswa/f/farhan.nurdiatama/.gnupg/pubring.gpg
+---------------------------------------------------------------
+pub   4096R/4472A3CA 2017-02-21 [expires: 2017-08-20]
+uid                  Farhan Nurdiatama (studying OS is ... okay) <farhan.nurdiatama@ui.ac.id>
+sub   4096R/C8DB01A4 2017-02-21 [expires: 2017-08-20]
+
+pub   4096R/BD4AD71E 2016-09-12 [expires: 2017-03-11]
+uid                  Os Team (OSTEAM) <osteam@localhost>
+sub   4096R/937D25BA 2016-09-12 [expires: 2017-03-11]
+
+pub   4096R/2DC115BC 2017-02-21 [expires: 2017-08-20]
+uid                  Farhan Nurdiatama (OS ntapslah) <farhan.nurdiatama@ui.ac.id>
+sub   4096R/48FFDA6A 2017-02-21 [expires: 2017-08-20]
+

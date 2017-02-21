@@ -1,0 +1,10 @@
+total 32
+drwx--x--x  4 farhan.nurdiatama StafCS 4096 Feb 21 17:38 .
+drwxr-xr-x 34 root              root   4096 Feb 13 21:24 ..
+-rw-r--r--  1 farhan.nurdiatama StafCS 3158 Feb 21 17:35 01-public-osteam.txt
+-rw-r--r--  1 farhan.nurdiatama StafCS    0 Feb 21 17:38 02-ls-al.txt
+-rw-------  1 farhan.nurdiatama StafCS 1883 Feb 21 17:33 .bash_history
+-rw-r--r--  1 farhan.nurdiatama StafCS 1621 Feb 21 17:34 oo-toc.txt
+drwxr-xr-x 18 farhan.nurdiatama StafCS 4096 Feb 14 15:54 os171
+-rw-------  1 farhan.nurdiatama StafCS  713 Feb 14 15:49 .viminfo
+drwxr-xr-x  2 farhan.nurdiatama StafCS 4096 Feb 21 15:38 work
