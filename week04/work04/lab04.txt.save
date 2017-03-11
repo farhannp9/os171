@@ -1,0 +1,19 @@
+a. What are the differences about the code and the output from both program? 
+They have different address yet the only difference is that two are local variables and the others are global variables
+b. Why Global Variable Address number and Local Variable Address number have a great difference in their address? 
+Local variables are stored at the end of the memory because they are only to be used temporarily
+c. Write your knowledge about Global Variable Address and Local Variable Address (don't forget to add the sources if you use reference)
+Local variable are assigned memory at the call of function, as a result, each recursive calls to the same local variables are distinctly stored (Wikipedia)
+
+
+
+a) Explain the parameter of flags in open function that used in the code !
+Int flags = determine the action for the file (to be read only, write only, etc)
+b) Explain the parameter of modes in open function that used in the code ! 
+Mode = determine who has access to the file and what type of access
+c) Write your knowledge about open and close I/O process (don't forget to add the sources if you use reference)
+Const char *pathname = stored addres of the file
+
+. Write your knowledge about the write program on lab04.txt point number 3 
+
+

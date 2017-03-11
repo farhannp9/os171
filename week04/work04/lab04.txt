@@ -1,0 +1,13 @@
+a. What are the differences about the code and the output from both program?
+b. Why Global Variable Address number and Local Variable Address number have a
+great difference in their address?
+c. Write your knowledge about Global Variable Address and Local Variable Address
+(don't forget to add the sources if you use reference)
+
+a) Explain the parameter of flags in open function that used in the code !
+b) Explain the parameter of modes in open function that used in the code !
+c) Write your knowledge about open and close I/O process (don't forget to add the
+sources if you use reference)
+
+. Write your knowledge about the write program on lab04.txt point number 3
+
