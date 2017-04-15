@@ -1,0 +1,33 @@
+. What are PID and PPID?
+
+pid is an indetifier of a process, ppid is an indentifeir of a process that starts another process
+
+. What do the getpid(), getppid(), sleep, and wait functions do?
+
+sleep : suspend execution for an interval time
+source - http://pubs.opengroup.org/onlinepubs/009695399/functions/sleep.html
+
+wait : This function blocks the calling process until one of its child processes exits or a signal is received
+source - http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/wait.html
+
+get pid, ppid : get a process's pid and ppid respectively
+
+. What are the return values of fork() ?
+fork create a new process
+if returns a negative value, it is unsuccesful
+if zero, it is succesful
+if postive, its the Pid
+
+source : http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/create.html
+
+What does procStatus function do?
+
+create new process
+
+. What is the usage of wait(NULL) in function levelFork (not in general) ?
+
+to make the process to be executed in a child process be delayed until the
+current process is finished
+
+. What is the usage of fflush(NULL) in function procStatus (not in general) ?
+to continue the process after it sleeps
