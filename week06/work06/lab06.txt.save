@@ -1,0 +1,25 @@
+1. what is PID and PPID?
+PID unique indetifier of each process running a program
+PPID is the parent process of a PID, it tells what process start this process
+
+2. what do the getpid(), get ppid(), sleep(), wait() do?
+
+wait() :
+This function blocks the calling process until one of its child processes exits or a signal is received
+source :
+http://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/fork/wait.html
+
+getpid() :
+
+get pid of a process
+
+get ppid () :
+
+get ppid of a process 
+
+sleep() :
+
+ suspend execution for an interval of time
+
+source : 
+ suspend execution for an interval of time

@@ -1,0 +1,15 @@
+Github Account: farhannp9
+
+
+-brief summary of the program.
+
+readwrite :
+
+
+balap :
+randomly initialize thread, the output maybe different from
+time to time
+
+
+-critical sections.
+- purpose of using mutex and the outcome if not using mutex
